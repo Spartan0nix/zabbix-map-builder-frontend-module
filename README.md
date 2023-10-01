@@ -1,0 +1,1 @@
+# zabbix-map-builder-frontend-module
